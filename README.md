@@ -2,6 +2,11 @@
 
 A collection of essays by [Mencius Moldbug](http://unqualified-reservations.blogspot.com/)
 
+Download:
+[epub](http://keithanyan.github.io/OnDemocracy.epub/OnDemocracy.epub)
+[mobi](http://keithanyan.github.io/OnDemocracy.epub/OnDemocracy.mobi)
+[pdf](http://keithanyan.github.io/OnDemocracy.epub/OnDemocracy.pdf)
+
 Original Articles:
 * [The case against democracy: ten red pills](http://unqualified-reservations.blogspot.com/2007/04/case-against-democracy-ten-red-pills.html)
 * [Popularchy: rule of the People](http://unqualified-reservations.blogspot.com/2007/05/popularchy-rule-of-people.html)
