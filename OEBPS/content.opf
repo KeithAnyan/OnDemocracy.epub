@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:c4db45c5-8088-4c76-aefe-75cff9bf7ca8</dc:identifier>
+    <dc:title>On Democracy</dc:title>
+    <dc:creator opf:role="aut">Mencius Moldbug</dc:creator>
+    <dc:language>en</dc:language>
+    <dc:date opf:event="modification">2014-06-29</dc:date>
+    <dc:date opf:event="publication">2007-08-20</dc:date>
+    <dc:contributor opf:role="trc">@jbboehr</dc:contributor>
+    <meta content="0.7.4" name="Sigil version" />
+  </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Styles/stylesheet.css" id="stylesheet.css" media-type="text/css" />
+    <item href="Fonts/philosopher.ttf" id="philosopher.ttf" media-type="application/x-font-ttf" />
+    <item href="Fonts/philosopher-bold.ttf" id="philosopher-bold.ttf" media-type="application/x-font-ttf" />
+    <item href="Fonts/philosopher-italic.ttf" id="philosopher-italic.ttf" media-type="application/x-font-ttf" />
+    <item href="Fonts/philosopher-italic-bold.ttf" id="philosopher-italic-bold.ttf" media-type="application/x-font-ttf" />
+    <item href="Text/against-political-freedom.html" id="against-political-freedom.html" media-type="application/xhtml+xml" />
+    <item href="Text/case-against-democracy-ten-red-pills.html" id="case-against-democracy-ten-red-pills.html" media-type="application/xhtml+xml" />
+    <item href="Text/democracy-as-adaptive-fiction.html" id="democracy-as-adaptive-fiction.html" media-type="application/xhtml+xml" />
+    <item href="Text/landscape-of-bewildering-contradictions.html" id="landscape-of-bewildering-contradictions.html" media-type="application/xhtml+xml" />
+    <item href="Text/popularchy-rule-of-people.html" id="popularchy-rule-of-people.html" media-type="application/xhtml+xml" />
+    <item href="Text/rotary-management-next-big-thing.html" id="rotary-management-next-big-thing.html" media-type="application/xhtml+xml" />
+    <item href="Text/title.html" id="title.html" media-type="application/xhtml+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="title.html" />
+    <itemref idref="case-against-democracy-ten-red-pills.html" />
+    <itemref idref="popularchy-rule-of-people.html" />
+    <itemref idref="democracy-as-adaptive-fiction.html" />
+    <itemref idref="against-political-freedom.html" />
+    <itemref idref="rotary-management-next-big-thing.html" />
+    <itemref idref="landscape-of-bewildering-contradictions.html" />
+  </spine>
+  <guide>
+    <reference href="Text/title.html" title="Title Page" type="title-page" />
+    <reference href="Text/case-against-democracy-ten-red-pills.html" title="Text" type="text" />
+  </guide>
+</package>
